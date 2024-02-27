@@ -18,11 +18,11 @@
     font-weight: 600;
 }
 .shop-category-products{
-    margin: 20px 170px;
+    margin: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     row-gap: 80px;
-    column-gap: 30px;
+    column-gap: 20px;
 }
 .shop-category-loadmore{
     display: flex;

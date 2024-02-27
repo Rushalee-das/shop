@@ -1,6 +1,5 @@
 .offers{
-    margin-top: 20px;
-    margin: auto;
+    margin: 120px auto;
     width: 65%;
     height: 60vh;
     display: flex;
@@ -11,12 +10,14 @@
 }
 .offers-left{
     flex: 1;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 .offers-left h1{
     color: #171717;
+    line-height: 1;
     font-size: 80px;
     font-weight: 600;
 }
