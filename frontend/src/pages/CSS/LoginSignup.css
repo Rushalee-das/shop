@@ -29,3 +29,26 @@
     color: #5c5c5c;
     font-size: 18px;
 }
+.loginsignup-container button{
+    width: 580px;
+    height: 72px;
+    color: white;
+    background: #ff4141;
+    margin-top: 30px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+}
+.loginsignup-login{
+    margin-top: 20px;
+    color: #5c5c5c;
+    font-size: 18px;
+    font-weight: 500;
+}
+.loginsignup-login span{
+    color: #ff4141;
+    font-weight: 500;
+}
+.loginsignup-agree{
+    
+}
